@@ -26,7 +26,7 @@ g) Agregar comentarios que expliquen el funcionamiento del código.
 
 * Ejercicio 2:
 Copiar el siguiente código dentro de un archivo, luego guardarlo con el nombre:
-“Ejercicio2.html”. Ejecuta el programa en el navegador. 
+“Ejercicio2.html”. Ejecuta el programa en el navegador.  
 `<!DOCTYPE html>`  
 `<html>`  
 `<body>`  
